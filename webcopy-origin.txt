@@ -1,0 +1,512 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&subset=latin-ext
+File Name: D:\Cyotek\lacasadelleartimilano.it\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+File Name: D:\Cyotek\lacasadelleartimilano.it\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+File Name: D:\Cyotek\lacasadelleartimilano.it\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+File Name: D:\Cyotek\lacasadelleartimilano.it\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+File Name: D:\Cyotek\lacasadelleartimilano.it\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJnedw.ttf
+File Name: D:\Cyotek\lacasadelleartimilano.it\s\poppins\v19\pxiEyp8kv8JHgFVrJJnedw.ttf
+Content Type: font/ttf
+
+Uri: https://lacasadelleartimilano.it/
+File Name: D:\Cyotek\lacasadelleartimilano.it\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/area-c/
+File Name: D:\Cyotek\lacasadelleartimilano.it\area-c\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/box-auto/
+File Name: D:\Cyotek\lacasadelleartimilano.it\box-auto\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/camera-doppia-musica/
+File Name: D:\Cyotek\lacasadelleartimilano.it\camera-doppia-musica\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/camera-matrimoniale-pittura/
+File Name: D:\Cyotek\lacasadelleartimilano.it\camera-matrimoniale-pittura\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/camera-singola-cinema/
+File Name: D:\Cyotek\lacasadelleartimilano.it\camera-singola-cinema\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/category/le-camere-da-letto/
+File Name: D:\Cyotek\lacasadelleartimilano.it\category\le-camere-da-letto\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/category/le-camere-da-letto/feed/
+File Name: D:\Cyotek\lacasadelleartimilano.it\category\le-camere-da-letto\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/bellows.min.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\bellows.min.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/css/font-awesome.min.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.eot?
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/css/fontawesome/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\css\fontawesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://lacasadelleartimilano.it/core/modules/45c2417754/assets/js/bellows.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\45c2417754\assets\js\bellows.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/core/modules/5f34ee9c2c/assets/dist/css/mailpoet-public.35daadf4.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\5f34ee9c2c\assets\dist\css\mailpoet-public.35daadf4.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/5f34ee9c2c/assets/dist/js/public.3ac9223b.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\5f34ee9c2c\assets\dist\js\public.3ac9223b.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/core/modules/613a8b2142/assets/infinitescroll/infinite-scroll.pkgd.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\613a8b2142\assets\infinitescroll\infinite-scroll.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/core/modules/613a8b2142/assets/swipebox/img/icons.png
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\613a8b2142\assets\swipebox\img\icons.png
+Content Type: image/png
+
+Uri: https://lacasadelleartimilano.it/core/modules/613a8b2142/assets/swipebox/img/loader.gif
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\613a8b2142\assets\swipebox\img\loader.gif
+Content Type: image/gif
+
+Uri: https://lacasadelleartimilano.it/core/modules/613a8b2142/assets/swipebox/jquery.swipebox.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\613a8b2142\assets\swipebox\jquery.swipebox.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/core/modules/613a8b2142/assets/swipebox/swipebox.min.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\613a8b2142\assets\swipebox\swipebox.min.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/613a8b2142/js/front.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\613a8b2142\js\front.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/core/modules/7e4609f00f/images/td_back.gif
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\7e4609f00f\images\td_back.gif
+Content Type: image/gif
+
+Uri: https://lacasadelleartimilano.it/core/modules/7e4609f00f/public/css/cookie-law-info-gdpr.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\7e4609f00f\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/7e4609f00f/public/css/cookie-law-info-public.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\7e4609f00f\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/7e4609f00f/public/css/cookie-law-info-table.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\7e4609f00f\public\css\cookie-law-info-table.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/core/modules/7e4609f00f/public/images/logo-cookieyes.svg
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\7e4609f00f\public\images\logo-cookieyes.svg
+Content Type: image/svg+xml
+
+Uri: https://lacasadelleartimilano.it/core/modules/7e4609f00f/public/js/cookie-law-info-public.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\core\modules\7e4609f00f\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/feed/
+File Name: D:\Cyotek\lacasadelleartimilano.it\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lacasadelleartimilano.it/la-cucina/
+File Name: D:\Cyotek\lacasadelleartimilano.it\la-cucina\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/la-storia-della-casa/
+File Name: D:\Cyotek\lacasadelleartimilano.it\la-storia-della-casa\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/m834bo-lib/css/dist/block-library/style.min.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-lib\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/m834bo-lib/js/jquery/jquery-migrate.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-lib\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/m834bo-lib/js/jquery/jquery.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-lib\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/m834bo-lib/js/underscore.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-lib\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/m834bo-lib/js/wp-embed.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-lib\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/camera-a-un-letto.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\camera-a-un-letto.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/camera-doppia-vista-ingresso.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\camera-doppia-vista-ingresso.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/camera-matrimoniale-1024x683.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\camera-matrimoniale-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/camera-matrimoniale-particolare-1024x683.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\camera-matrimoniale-particolare-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/camera-singola-768x1024.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\camera-singola-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/corridoio-zona-notte-1024x683.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\corridoio-zona-notte-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/cucina-1024x792.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\cucina-1024x792.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/giardino-condominiale-1024x683.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\giardino-condominiale-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/HQTU8724-768x1024.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\HQTU8724-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/2/2019/02/ingresso-su-fb-1024x595.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\2\2019\02\ingresso-su-fb-1024x595.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/04/banner_casaarti_klee_scrittacasadelleart_1-1-1024x208.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\04\banner_casaarti_klee_scrittacasadelleart_1-1-1024x208.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/04/banner_casaarti_klee_scrittacasadelleart_1-1-1320x268.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\04\banner_casaarti_klee_scrittacasadelleart_1-1-1320x268.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/04/banner_casaarti_klee_scrittacasadelleart_1-1-300x61.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\04\banner_casaarti_klee_scrittacasadelleart_1-1-300x61.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/04/banner_casaarti_klee_scrittacasadelleart_1-1-768x156.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\04\banner_casaarti_klee_scrittacasadelleart_1-1-768x156.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/04/banner_casaarti_klee_scrittacasadelleart_1-1.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\04\banner_casaarti_klee_scrittacasadelleart_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/05/senecio-2-1-150x150.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\05\senecio-2-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/05/senecio-2-1-160x160.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\05\senecio-2-1-160x160.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/05/senecio-2-1-320x320.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\05\senecio-2-1-320x320.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/m834bo-storage/sites/21/2019/05/senecio-2-1.jpg
+File Name: D:\Cyotek\lacasadelleartimilano.it\m834bo-storage\sites\21\2019\05\senecio-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/0143c1e8e9/style.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\0143c1e8e9\style.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/css/font-awesome.min.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/css/main.min.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\css\main.min.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/img/ie/opacity-70.png
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\img\ie\opacity-70.png
+Content Type: image/png
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/img/ie/opacity-80-light.png
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\img\ie\opacity-80-light.png
+Content Type: image/png
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/img/opacity-10.png
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\img\opacity-10.png
+Content Type: image/png
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/img/pre.png
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\img\pre.png
+Content Type: image/png
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/img/thumb-standard-empty.png
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\img\thumb-standard-empty.png
+Content Type: image/png
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/js/libs/mobile-detect.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\js\libs\mobile-detect.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/js/scripts.min.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.eot?
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.eot?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.svg?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.ttf?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.woff2?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-brands-400.woff?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.eot?
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.eot?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.svg?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.ttf?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.woff2?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-regular-400.woff?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.eot?
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.eot?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.svg?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.ttf?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.woff2?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/1cd8009751/assets/front/webfonts/fa-solid-900.woff?v=5.15.2
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\1cd8009751\assets\front\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://lacasadelleartimilano.it/mosaico-tema/hueman/style.css
+File Name: D:\Cyotek\lacasadelleartimilano.it\mosaico-tema\hueman\style.css
+Content Type: text/css
+
+Uri: https://lacasadelleartimilano.it/parcheggiare-a-milano/
+File Name: D:\Cyotek\lacasadelleartimilano.it\parcheggiare-a-milano\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/raccolta-differenziata-a-milano/
+File Name: D:\Cyotek\lacasadelleartimilano.it\raccolta-differenziata-a-milano\index.htm
+Content Type: text/html
+
+Uri: https://lacasadelleartimilano.it/wp-json/
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Farea-c%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Farea-c%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fbox-auto%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fbox-auto%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fcamera-doppia-musica%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fcamera-doppia-musica%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fcamera-matrimoniale-pittura%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fcamera-matrimoniale-pittura%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fcamera-singola-cinema%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fcamera-singola-cinema%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fla-cucina%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fla-cucina%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fla-storia-della-casa%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fla-storia-della-casa%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fparcheggiare-a-milano%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fparcheggiare-a-milano%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fraccolta-differenziata-a-milano%2F
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/oembed/1.0/embed?url=https:%2F%2Flacasadelleartimilano.it%2Fraccolta-differenziata-a-milano%2F&format=xml
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/categories/3
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/pages/16
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\pages\16
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/14
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\14
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/19
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\19
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/21
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\21
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/60
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\60
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/63
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\63
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/68
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\68
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/87
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\87
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/88
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\88
+Content Type: application/json
+
+Uri: https://lacasadelleartimilano.it/wp-json/wp/v2/posts/93
+File Name: D:\Cyotek\lacasadelleartimilano.it\wp-json\wp\v2\posts\93
+Content Type: application/json
+
+Uri: https://www.google-analytics.com/analytics.js
+File Name: D:\Cyotek\lacasadelleartimilano.it\analytics.js
+Content Type: text/javascript
+
